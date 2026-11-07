@@ -12,11 +12,3 @@ A Flutter recipe app for browsing meals by category, viewing recipe details, and
 
 The app currently uses a built-in sample catalogue. Favorite selections and filter settings are held in app state and are not persisted between launches.
 
-## Run the app
-
-Install the Flutter SDK, then run:
-
-```sh
-flutter pub get
-flutter run
-```
